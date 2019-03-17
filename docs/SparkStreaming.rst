@@ -9,7 +9,7 @@ Spark Streaming is an extension of the core Spark API that enables scalable, hig
 data streams. Data can be ingested from many sources like Kafka, Flume, Kinesis. Finally, processed data can be pushed out to filesystems
 , databases, and live dashboards.
 
-.. image:: images/streaming1.rst
+.. image:: images/streaming1.png
    :width: 800px
    :height: 400px
    :alt: alternate text
@@ -38,7 +38,7 @@ Advantages of Stream Processing
 Spark Streaming Architecture 
 -----------------------------
 
-.. image:: images/streaming2.rst
+.. image:: images/streaming2.png
    :width: 800px
    :height: 200px
    :alt: alternate text
@@ -49,7 +49,7 @@ Spark Streaming Architecture
 - At the end of the time interval the batch is done growing. The size of the time intervals is determined by a parameter called the batch interval. 
 - Each input batch forms an RDD, and is processed using Spark jobs to create other RDDs. The processed results can then be pushed out to external systems in batches. 
 
-.. image:: images/streaming3.rst
+.. image:: images/streaming3.png
    :width: 800px
    :height: 100px
    :alt: alternate text
