@@ -25,4 +25,4 @@ Prerequisites
    :maxdepth: 2
    
    SparkStreaming
-   AzureEventHub
+   Azure-EventHub
