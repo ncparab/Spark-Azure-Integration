@@ -166,7 +166,7 @@ Add the following commands to the main method of the program structure. 
 
 .. image:: images/azure9.png
    :width: 800px
-   :height: 200px
+   :height: 400px
    :alt: alternate text
    
 Final code will looks like;
@@ -223,7 +223,7 @@ Press F5 or run the console application. We have sent the messages to the event 
 
 .. image:: images/azure10.png
    :width: 800px
-   :height: 200px
+   :height: 400px
    :alt: alternate text
 
 Step 18
